@@ -1,3 +1,6 @@
+<img width="964" alt="KakaoTalk_Photo_2024-05-31-16-27-52" src="https://github.com/CAU-DM/.github/assets/27052038/40c82148-4d2c-4b02-b775-20628e16164c">
+
+
 | Name | Github | Email | Role |
 | --- | --- | --- | --- |
 | Jiheun Ko | https://github.com/cozy-hn | jhk2721@naver.com | AI |
